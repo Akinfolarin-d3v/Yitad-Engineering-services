@@ -1,9 +1,9 @@
 
 # Civil Engineers and Architects 🏗️
 
-This website aims to establish a digital presence for M.B.Bankar Consulting, a reputable firm with a 25-year legacy in Pune's civil engineering and architectural domain. As a developer, my objective was to create a user-friendly and informative website that showcases the company's extensive portfolio, highlights its commitment to quality and client satisfaction, and provides a platform for potential clients to learn about the services offered and get in touch.
+This website aims to establish a digital presence for Yitad Engineering services LTD, a reputable firm with over 10 years legacy in Nigeria's civil engineering and architectural domain. As a developer, my objective was to create a user-friendly and informative website that showcases the company's extensive portfolio, highlights its commitment to quality and client satisfaction, and provides a platform for potential clients to learn about the services offered and get in touch.
 
-Live: https://milindbankar.netlify.app/
+Live: https://Yitadengineering.netlify.app/
 
 
 ## Features 🚀
